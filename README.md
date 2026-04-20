@@ -1,4 +1,4 @@
-# Next.js + Drizzle + Better Auth Template by kx4x
+# Next.js + Drizzle + Better Auth Template
 
 This is a modern full-stack template that combines Next.js with Drizzle ORM and Better Auth for a seamless development experience.
 
